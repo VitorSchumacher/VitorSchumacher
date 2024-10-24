@@ -26,6 +26,5 @@
  <a href="https://www.facebook.com/vitor.schumacher.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
 </div>
-  
-![Snake animation](https://VitorSchumacher.github.io/VitorSchumacher/snake.svg)
 
+  ![snake gif](https://github.com/VitorSchumacher/VitorSchumacher/blob/output/github-contribution-grid-snake.svg)
