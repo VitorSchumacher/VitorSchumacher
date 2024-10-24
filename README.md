@@ -27,4 +27,4 @@
   
 </div>
 
-  ![snake gif](https://github.com/VitorSchumacher/VitorSchumacher/only-svg/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/VitorSchumacher/only-svg/github-contribution-grid-snake.svg)
