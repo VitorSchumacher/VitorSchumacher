@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: VitorSchumacher
-          svg_out_path: dist/snake.svg
+          outputs: dist/snake.svg
 
       # Publicar no GitHub Pages
       - name: Deploy to GitHub Pages
