@@ -28,4 +28,4 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/VitorSchumacher/VitorSchumacher/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/VitorSchumacher/VitorSchumacher/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
