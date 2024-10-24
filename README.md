@@ -28,4 +28,11 @@
 </div>
 
 
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+
+
 ![Snake animation](https://raw.githubusercontent.com/VitorSchumacher/VitorSchumacher/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
