@@ -92,19 +92,19 @@
 
 <div align="center">
   <a href="https://github.com/VitorSchumacher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSchumacher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchumacher&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSchumacher&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&icon_color=7fff08&bg_color=130d15"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchumacher&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=130d15"/>
   </a>
 </div>
 
 <details>
-  <summary>Mais estatisticas</summary>
+  <summary>Mais estatísticas</summary>
   
 ## 📈 Atividade Recente
 
 <div align="center">
   
-[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VitorSchumacher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VitorSchumacher&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
