@@ -8,7 +8,7 @@
 
 <div align="center">
 <img  src="https://orhun.dev/img/crow.png">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="800" height="250" />
 </div>
 
 
