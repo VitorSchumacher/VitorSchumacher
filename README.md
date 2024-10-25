@@ -33,8 +33,6 @@
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
 
-### 🎧 Ouvindo no Spotify
-
-[![Spotify](https://spotify-github-profile-omega-tan.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_USUARIO_SPOTIFY)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22yto5okklnppeemvoynw5wjy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Snake animation](https://raw.githubusercontent.com/VitorSchumacher/VitorSchumacher/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
