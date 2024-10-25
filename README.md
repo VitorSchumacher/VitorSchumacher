@@ -3,6 +3,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px">
 </div>
+---
+
+<div align="center">
+  <h2>"Seja a mudança que você deseja ver no mundo."</h2>
+  <p>- Mahatma Gandhi</p>
+</div>
+
+---
 
 ## Sobre Mim
 
@@ -54,6 +62,14 @@
 
 </div>
 
+## 🎵 O que estou ouvindo
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22yto5okklnppeemvoynw5wjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22yto5okklnppeemvoynw5wjy&redirect=true)
+  
+</div>
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -63,14 +79,6 @@
   </a>
 </div>
 
-## 🎵 O que estou ouvindo
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22yto5okklnppeemvoynw5wjy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22yto5okklnppeemvoynw5wjy&redirect=true)
-  
-</div>
-
 ## 📈 Atividade Recente
 
 <div align="center">
@@ -78,15 +86,6 @@
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VitorSchumacher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
-
----
-
-<div align="center">
-  <h2>"Seja a mudança que você deseja ver no mundo."</h2>
-  <p>- Mahatma Gandhi</p>
-</div>
-
----
 
 ## 📫 Como me encontrar
 
