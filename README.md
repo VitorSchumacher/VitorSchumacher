@@ -92,7 +92,7 @@
 
 <div align="center">
   <a href="https://github.com/VitorSchumacher">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSchumacher&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&icon_color=7fff08&bg_color=130d15"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSchumacher&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=130d15&icon_color=7fff08"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSchumacher&layout=compact&langs_count=7&theme=chartreuse-dark&bg_color=130d15"/>
   </a>
 </div>
@@ -104,7 +104,7 @@
 
 <div align="center">
   
-[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VitorSchumacher&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VitorSchumacher&theme=vue&bg_color=130d15&line=7fff08&color=7fff08)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
@@ -120,6 +120,7 @@
   
 </div>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=400"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00ff00&height=100&section=footer&width=100%&text=Obrigado%20por%20visitar!&fontColor=7fff08&fontSize=24&fontAlign=50&fontAlignY=65"/>
 </p>
