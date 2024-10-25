@@ -20,16 +20,21 @@
 
 ---
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="100" height="230" />
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left' width="100" height="230" />
+
+<div align="center">
+  
 ## Sobre Mim
 
-- 🌐 **Estudante de Sistemas de Informação**.
-- 💻 **Apaixonado por tecnologia**, programação, desenvolvimento web e mobile.
-- 📚 **Sempre aprendendo algo novo**.
-- ⚡ **Viciado em JavaScript**.
-- 💡 **Amante da inovação**.
-- 🚀 **Desenvolvedor Front-End na Instabov**.
+🌐 **Estudante de Sistemas de Informação**.<br/>
+💻 **Apaixonado por tecnologia**, programação, desenvolvimento web e mobile.<br/>
+📚 **Sempre aprendendo algo novo**.<br/>
+⚡ **Viciado em JavaScript**.<br/>
+💡 **Amante da inovação**.<br/>
+🚀 **Desenvolvedor Front-End na Instabov**.<br/>
+</div>
 
 <div align="center">
   
