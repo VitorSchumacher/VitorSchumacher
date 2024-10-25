@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-<img  src="https://orhun.dev/img/crow.png">
   <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="800" height="250" />
 </div>
 
