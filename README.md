@@ -1,12 +1,12 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Olá+Pessoal;Sou+o+Vitor!;Desenvolvedor+Front-End;Bem-vindo+ao+meu+perfil!&color=6e40c9" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Olá+Pessoal;Sou+o+Vitor!;Desenvolvedor+Front-End;Bem-vindo+ao+meu+perfil!&color=7fff08" />
 </h3>
 
 ##
   
 <div align="right">
   
-  ![](https://komarev.com/ghpvc/?username=VitorSchumacher&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=VitorSchumacher&color=5faf08)
   
 </div>
 
@@ -124,6 +124,10 @@
   
 </div>
 
+
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/⬆️%20Voltar%20ao%20Topo-000000?style=for-the-badge" alt="Voltar ao Topo"></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00ff00&height=100&section=footer&width=100%&text=Obrigado%20por%20visitar!&fontColor=7fff08&fontSize=24&fontAlign=50&fontAlignY=65"/>
