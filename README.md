@@ -1,6 +1,13 @@
 # Olá, eu sou o Vitor Schumacher! 👋
+  
+<div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=VitorSchumacher&color=blueviolet)
+  
+</div>
 
 <div align="center">
+<img  src="https://orhun.dev/img/crow.png">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px">
 </div>
 
