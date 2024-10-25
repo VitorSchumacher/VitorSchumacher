@@ -1,4 +1,8 @@
-# Olá, eu sou o Vitor Schumacher! 👋
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Olá+Pessoal;Sou+o+Vitor!;Desenvolvedor+Front-End;Bem-vindo+ao+meu+perfil!&color=6e40c9" />
+</h3>
+
+##
   
 <div align="right">
   
