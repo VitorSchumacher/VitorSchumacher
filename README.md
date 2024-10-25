@@ -20,11 +20,16 @@
 
 ---
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
+
 ## Sobre Mim
 
-- 🎓 Estudante de **Sistemas de Informação**.
-- 💻 Apaixonado por tecnologia, programação, desenvolvimento web e mobile.
-- 🚀 Sempre em busca de novos conhecimentos e desafios.
+- 🌐 **Estudante de Sistemas de Informação**.
+- 💻 **Apaixonado por tecnologia**, programação, desenvolvimento web e mobile.
+- 📚 **Sempre aprendendo algo novo**.
+- ⚡ **Viciado em JavaScript**.
+- 💡 **Amante da inovação**.
+- 🚀 **Desenvolvedor Front-End na Instabov**.
 
 <div align="center">
   
@@ -87,6 +92,9 @@
   </a>
 </div>
 
+<details>
+  <summary>Mais estatisticas</summary>
+  
 ## 📈 Atividade Recente
 
 <div align="center">
@@ -94,6 +102,8 @@
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VitorSchumacher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
+
+</details>
 
 ## 📫 Como me encontrar
 
@@ -104,3 +114,7 @@
   <a href="https://www.instagram.com/vitor_vs38/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=400"/>
+</p>
