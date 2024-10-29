@@ -18,8 +18,8 @@
 ---
 
 <div align="center">
-  <h2>"Seja a mudança que você deseja ver no mundo."</h2>
-  <p>- Mahatma Gandhi</p>
+  <h2>"Quel che si è fatto conta fino ad un certo punto:<br/> l'importante è cosa si può migliorare domani...<br/>Cominciando adesso!"</h2>
+  <p>- Antonio Meneghetti</p>
 </div>
 
 ---
